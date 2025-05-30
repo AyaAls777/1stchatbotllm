@@ -15,5 +15,5 @@ A simple chatbot built using Groq’s LLaMA-3.1-8B-Instant API. Created during t
 - Requests
 - Groq API
 
-This was my first chatbot project built while learning how to configure and integrate LLM APIs from scratch using real documentation.
+This was my first chatbot project built while learning how to configure and integrate LLM APIs from scratch.
 
