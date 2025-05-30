@@ -1,4 +1,4 @@
-# 1st Chatbot LLM
+#Chatbot LLM
 
 A simple chatbot built using Groq’s LLaMA-3.1-8B-Instant API. Created during the AI Residency to demonstrate LLM prompt-response flow using Python, Postman, and Gradio.
 
